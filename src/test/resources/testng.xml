@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Changan-AI-Suite" verbose="1" >
+    <test name="Nopackage" >
+        <classes>
+            <!--<class name="NoPackageTest" />-->
+        </classes>
+    </test>
+
+    <test name="Regression">
+        <classes>
+            <class name="com.changan.testcases.AppTest"/>
+            <class name="com.changan.testcases.VerifyLogin"/>
+        </classes>
+    </test>
+</suite>
