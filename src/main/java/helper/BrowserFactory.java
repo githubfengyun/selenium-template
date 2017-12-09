@@ -1,5 +1,6 @@
 package helper;
 
+import io.github.bonigarcia.wdm.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -13,9 +14,12 @@ public class BrowserFactory {
     static WebDriver webDriver;
 
     public static void initDriver() {
-        System.out.println("init set pro");
-        System.setProperty("webdriver.chrome.driver","/Users/jackysun/Desktop/IdeaProjects/selenium-template/src/test/resources/lib/chromedriver");
-        System.out.println("init set pro end com");
+        ChromeDriverManager.getInstance().setup();
+//        FirefoxDriverManager.getInstance().setup();
+//        OperaDriverManager.getInstance().setup();
+//        PhantomJsDriverManager.getInstance().setup();
+//        EdgeDriverManager.getInstance().setup();
+//        InternetExplorerDriverManager.getInstance().setup();
     }
 
     public static WebDriver startBrowser(String browserName, String url) {
