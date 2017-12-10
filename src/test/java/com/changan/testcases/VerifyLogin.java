@@ -10,7 +10,6 @@ import org.testng.annotations.Test;
 public class VerifyLogin extends BaseClass{
     @Test
     public void checkLoginUser() {
-        System.out.println("in checkloginuser");
         LoginPage loginPage = PageFactory.initElements(BrowserFactory.getWebDriver(), LoginPage.class);
         loginPage.loginSiteBeam("admin", "admin");
     }

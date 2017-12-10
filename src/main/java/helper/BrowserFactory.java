@@ -14,8 +14,8 @@ public class BrowserFactory {
     static WebDriver webDriver;
 
     public static void initDriver() {
-        ChromeDriverManager.getInstance().setup();
-//        FirefoxDriverManager.getInstance().setup();
+//        ChromeDriverManager.getInstance().setup();
+        FirefoxDriverManager.getInstance().setup();
 //        OperaDriverManager.getInstance().setup();
 //        PhantomJsDriverManager.getInstance().setup();
 //        EdgeDriverManager.getInstance().setup();
@@ -27,7 +27,6 @@ public class BrowserFactory {
             webDriver = new FirefoxDriver();
         } else if(browserName.equals("chrome")) {
             webDriver = new ChromeDriver();
-            System.out.println("init set pro ccchrome end com");
         } else if(browserName.equalsIgnoreCase("ie")) {
             webDriver = new InternetExplorerDriver();
         }
