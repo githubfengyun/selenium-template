@@ -10,7 +10,7 @@
     <test name="Regression">
         <classes>
             <class name="com.changan.testcases.AppTest"/>
-            <class name="com.changan.testcases.VerifyLogin"/>
+            <class name="com.changan.testcases.TC001_Module01_VerifyLogin"/>
         </classes>
     </test>
 </suite>

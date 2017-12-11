@@ -12,8 +12,6 @@ public class ConfigReader {
 
     public ConfigReader() {
         try {
-            PropertyConfigurator
-                    .configure("./configuration/log4j.property");
             File configFile = new File("./configuration/config.property");
             FileInputStream configFileInputStream = new FileInputStream(configFile);
             properties = new Properties();
