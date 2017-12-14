@@ -1,11 +1,9 @@
 package com.changan.testcases;
 
-
-import com.changan.ddt.ExcelSheetDriver;
+import com.changan.ddt.ExcelDriver;
 import com.changan.util.BaseClass;
 import com.com.changan.pageobjects.LoginPage;
 import com.changan.util.BrowserFactory;
-import jxl.read.biff.BiffException;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
@@ -14,12 +12,10 @@ import java.io.IOException;
 public class TC001_Module01_VerifyLogin extends BaseClass{
     @Test
     public void checkLoginUser() {
-        ExcelSheetDriver xlsUtil = null;
+        ExcelDriver xlsUtil = null;
         try {
-            xlsUtil = new ExcelSheetDriver("./src/test/resources/testdata/tests-example.xls");
+            xlsUtil = new ExcelDriver("./src/test/resources/testdata/tests-example.xlsx");
             xlsUtil.columnDictionary();
-        } catch (BiffException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }

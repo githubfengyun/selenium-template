@@ -1,22 +1,25 @@
 package com.changan.ddt;
 
-import jxl.Sheet;
-import jxl.Workbook;
-import jxl.read.biff.BiffException;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Hashtable;
 
-public class ExcelSheetDriver {
-    static Sheet wrksheet;
+public class ExcelDriver {
+    static Sheet  wrksheet;
     static Workbook wrkbook =null;
     static Hashtable dict= new Hashtable();
+
     //Create a Constructor
-    public ExcelSheetDriver(String ExcelSheetPath) throws BiffException, IOException
-    {
+    public ExcelDriver(String ExcelSheetPath) throws IOException {
         //Initialize
-        wrkbook = Workbook.getWorkbook(new File(ExcelSheetPath));
+        File excelFile = new File(ExcelSheetPath);
+        FileInputStream excelFileInputStream = new FileInputStream(excelFile);
+        wrkbook = new XSSFWorkbook(excelFileInputStream);
         //For Demo purpose the excel sheet path is hardcoded, but not recommended :)
         wrksheet = wrkbook.getSheet("Example Test");
     }
@@ -24,13 +27,13 @@ public class ExcelSheetDriver {
     //Returns the Number of Rows
     public static int rowCount()
     {
-        return wrksheet.getRows();
+        return wrksheet.getLastRowNum();
     }
 
     //Returns the Cell value by taking row and Column values as argument
     public static String readCell(int column,int row)
     {
-        return wrksheet.getCell(column,row).getContents();
+        return wrksheet.getRow(row).getCell(column).getStringCellValue();
     }
 
     public static String readCell(String colName, int row) {
@@ -41,13 +44,14 @@ public class ExcelSheetDriver {
     public static void columnDictionary()
     {
         //Iterate through all the columns in the Excel sheet and store the value in Hashtable
-        for(int col=0;col < wrksheet.getColumns();col++)
+        int colCount = wrksheet.getRow(0).getLastCellNum();
+        for(int col=0;col < colCount;col++)
         {
             dict.put(readCell(col,0), col);
         }
     }
 
-    //Read Column Names
+    //Read Column Names and output the column index
     public static int getCell(String colName)
     {
         try {
