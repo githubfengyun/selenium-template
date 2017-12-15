@@ -20,8 +20,7 @@ public class ExcelDriver {
         File excelFile = new File(ExcelSheetPath);
         FileInputStream excelFileInputStream = new FileInputStream(excelFile);
         wrkbook = new XSSFWorkbook(excelFileInputStream);
-        //For Demo purpose the excel sheet path is hardcoded, but not recommended :)
-        wrksheet = wrkbook.getSheet("Example Test");
+        //For Demo purpose the excel sheet path is hardcoded, but not recommended :
     }
 
     //Returns the Number of Rows
@@ -41,8 +40,9 @@ public class ExcelDriver {
     }
 
     //Create Column Dictionary to hold all the Column Names
-    public static void columnDictionary()
+    public static void columnDictionary(String sheetName)
     {
+        wrksheet = wrkbook.getSheet(sheetName);
         //Iterate through all the columns in the Excel sheet and store the value in Hashtable
         int colCount = wrksheet.getRow(0).getLastCellNum();
         for(int col=0;col < colCount;col++)

@@ -24,4 +24,8 @@ public class ConfigReader {
     public String getApplicationUrl() {
         return properties.getProperty("URL");
     }
+
+    public String getTestNgConfigPath() {
+        return properties.getProperty("testng-config-path");
+    }
 }

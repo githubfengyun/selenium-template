@@ -15,7 +15,7 @@ public class TC001_Module01_VerifyLogin extends BaseClass{
         ExcelDriver xlsUtil = null;
         try {
             xlsUtil = new ExcelDriver("./src/test/resources/testdata/tests-example.xlsx");
-            xlsUtil.columnDictionary();
+            xlsUtil.columnDictionary("sheet1");
         } catch (IOException e) {
             e.printStackTrace();
         }
