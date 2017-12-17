@@ -102,14 +102,14 @@ public class XmlUtil {
 
             if (testClasses.get(currentTestName) != null) {
                 JsonObject classJO = new JsonObject();
-                classJO.addProperty("ClassName", currentClassName);
+                classJO.addProperty("ClassName", currentPackage + "." + currentClassName);
                 JsonObject currentClassesJO = testClasses.get(currentTestName);
                 ((JsonArray) currentClassesJO.get("classes")).add(classJO);
             } else {
                 JsonObject classesJO = new JsonObject();
                 JsonObject classJO = new JsonObject();
                 JsonArray classJA = new JsonArray();
-                classJO.addProperty("ClassName", currentClassName);
+                classJO.addProperty("ClassName", currentPackage + "." + currentClassName);
                 classJA.add(classJO);
                 classesJO.add("classes", classJA);
                 testClasses.put(currentTestName, classesJO);

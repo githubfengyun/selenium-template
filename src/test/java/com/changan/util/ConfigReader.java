@@ -28,4 +28,12 @@ public class ConfigReader {
     public String getTestNgConfigPath() {
         return properties.getProperty("testng-config-path");
     }
+
+    public String getTestNgXMLPath() {
+        return properties.getProperty("testng-xml-path");
+    }
+
+    public String getProjectName() {
+        return properties.getProperty("ProjectName");
+    }
 }
