@@ -35,59 +35,56 @@ public class XmlUtil {
             e.printStackTrace();
         }
     }
-//    @Test
-//    public void getGroups() {
-////        ConfigReader cr = new ConfigReader();
-////        String testngPath = cr.getTestNgConfigPath();
-////        ExcelDriver ed = null;
-////        try {
-////            ed = new ExcelDriver(testngPath);
-////        } catch (IOException e) {
-////            e.printStackTrace();
-////        }
-////        ed.columnDictionary("Groups");
-////        String groups = ed.readCell("GroupName", 1);
-////        System.out.println("groups>>" + groups);
-//        JsonObject jotest = new JsonObject();
-//        JsonObject jogroup = new JsonObject();
-//        jotest.addProperty("TestName", "tn1");
-//        jogroup.addProperty("GroupNane", "g1");
-//        jogroup.addProperty("flag", "Y");
-//        JsonArray jagroups = new JsonArray();
-//        jagroups.add(jogroup);
-//        JsonObject jogroup2 = new JsonObject();
-//        jogroup2.addProperty("GroupNane", "g1");
-//        jogroup2.addProperty("flag", "Y");
-//        jagroups.add(jogroup2);
-//        jotest.add("Groups", jagroups);
-//        for (JsonElement jog:jagroups) {
-//            JsonElement j = jogroup.get("flag");
-//
-//            JsonObject a = (JsonObject) jog;
-//            JsonElement jj =a.get("GroupNane");
-//            System.out.print("tt");
-//        }
-//        System.out.println("jo--" + jotest.toString());
-//
-////        JsonObject.add()
-//    }
 
     @Test
-    public  HashMap<String, JsonObject> getTestWithClasses() {
+    public HashMap<String, JsonObject> getTestWithClassesandGroups() {
+        HashMap<String, JsonObject> testClasses = getTestWithClasses();
+        ed.columnDictionary("Groups");
+        int groupRow = ExcelDriver.rowCount();
+
+        for (int i = 1; i <= groupRow; i++) {
+            String currentTestName = ExcelDriver.readCell("TestName", i);
+            String currentGroupName = ExcelDriver.readCell("GroupName", i);
+            String currentFlag = ExcelDriver.readCell("Flag", i);
+
+            if (testClasses.get(currentTestName) != null && testClasses.get(currentTestName).get("groups") != null) {
+                JsonObject groupJO = new JsonObject();
+                groupJO.addProperty("GroupName", currentGroupName);
+                JsonObject currentgroupsJO = testClasses.get(currentTestName);
+                ((JsonArray) currentgroupsJO.get("groups")).add(groupJO);
+            } else {
+                JsonObject groupJO = new JsonObject();
+                JsonArray groupJA = new JsonArray();
+                groupJO.addProperty("GroupName", currentGroupName);
+                groupJA.add(groupJO);
+                testClasses.get(currentTestName).add("groups", groupJA);
+            }
+        }
+        return testClasses;
+    }
+
+    private HashMap<String, JsonObject> getTestWithClasses() {
+        ConfigReader cr = new ConfigReader();
+        String testngPath = cr.getTestNgConfigPath();
+        try {
+            ed = new ExcelDriver(testngPath);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
         ed.columnDictionary("Classes");
         int classRow = ExcelDriver.rowCount();
         HashMap<String, JsonObject> testClasses = new HashMap<String, JsonObject>();
-        for(int i=1; i <classRow; i++) {
+        for (int i = 1; i <= classRow; i++) {
             String currentTestName = ExcelDriver.readCell("TestName", i);
             String currentClassName = ExcelDriver.readCell("ClassName", i);
             String currentPackage = ExcelDriver.readCell("Package", i);
             String currentFlag = ExcelDriver.readCell("Flag", i);
 
-            if(testClasses.get(currentTestName) != null) {
+            if (testClasses.get(currentTestName) != null) {
                 JsonObject classJO = new JsonObject();
                 classJO.addProperty("ClassName", currentClassName);
                 JsonObject currentClassesJO = testClasses.get(currentTestName);
-                ((JsonArray)currentClassesJO.get("classes")).add(classJO);
+                ((JsonArray) currentClassesJO.get("classes")).add(classJO);
             } else {
                 JsonObject classesJO = new JsonObject();
                 JsonObject classJO = new JsonObject();
