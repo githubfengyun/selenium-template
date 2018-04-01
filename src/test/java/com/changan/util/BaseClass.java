@@ -40,10 +40,11 @@ public class BaseClass {
 
     }
 
-    @BeforeTest
+    @BeforeClass
     public void setupApplication() {
         BrowserFactory.initDriver();
         BrowserFactory.startBrowser("chrome", cr.getApplicationUrl());
+//        System.out.println("setupApplication>>" + cr.getApplicationUrl());
     }
 
     @AfterMethod
@@ -62,7 +63,7 @@ public class BaseClass {
         }
     }
 
-    @AfterTest
+    @AfterClass
     public void closeApplication() {
         BrowserFactory.closeBrowser();
     }
