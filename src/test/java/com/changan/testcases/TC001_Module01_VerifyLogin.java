@@ -2,7 +2,7 @@ package com.changan.testcases;
 
 import com.changan.ddt.ExcelDriver;
 import com.changan.util.BaseClass;
-import com.com.changan.pageobjects.LoginPage;
+import com.changan.pageobjects.LoginPage;
 import com.changan.util.BrowserFactory;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
@@ -15,11 +15,11 @@ public class TC001_Module01_VerifyLogin extends BaseClass{
         ExcelDriver xlsUtil = null;
         try {
             xlsUtil = new ExcelDriver("./src/test/resources/testdata/tests-example.xlsx");
-            xlsUtil.columnDictionary("sheet1");
+            ExcelDriver.columnDictionary("sheet1");
         } catch (IOException e) {
             e.printStackTrace();
         }
-        String username = xlsUtil.readCell("correct", 6);
+        String username = ExcelDriver.readCell("correct", 6);
         System.out.println("uname ---" + username);
         LoginPage loginPage = PageFactory.initElements(BrowserFactory.getWebDriver(), LoginPage.class);
         loginPage.loginSiteBeam("admin", "admin");

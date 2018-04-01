@@ -1,0 +1,480 @@
+2017-12-11 15:22:03,166 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.19.1
+2017-12-11 15:22:03,490 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.19.1/geckodriver
+2017-12-11 15:36:49,442 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.19.1
+2017-12-11 15:36:49,776 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.19.1/geckodriver
+2017-12-11 15:45:39,250 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2017-12-11 18:33:13,705 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2017-12-11 18:33:52,414 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.19.1
+2017-12-11 18:33:52,777 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.19.1/geckodriver
+2017-12-11 18:39:16,365 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2017-12-11 18:39:20,371 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.19.1
+2017-12-11 18:39:20,706 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.19.1/geckodriver
+2017-12-11 20:46:32,436 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2017-12-11 20:46:36,381 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.19.1
+2017-12-11 20:46:36,790 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.19.1/geckodriver
+2017-12-11 20:52:07,050 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2017-12-11 20:52:11,168 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.19.1
+2017-12-11 20:52:11,537 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.19.1/geckodriver
+2017-12-11 20:54:19,659 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2017-12-11 20:54:23,011 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.19.1
+2017-12-11 20:54:23,299 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.19.1/geckodriver
+2017-12-11 21:00:46,996 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2017-12-11 21:00:50,136 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.19.1
+2017-12-11 21:00:50,478 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.19.1/geckodriver
+2017-12-14 18:36:29,817 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2017-12-14 18:36:35,223 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.19.1
+2017-12-14 18:36:35,574 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.19.1/geckodriver
+2017-12-14 18:39:38,929 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2017-12-14 18:39:43,246 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.19.1
+2017-12-14 18:39:43,595 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.19.1/geckodriver
+2017-12-14 18:49:32,550 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2017-12-14 18:49:37,326 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.19.1
+2017-12-14 18:49:37,743 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.19.1/geckodriver
+2017-12-17 14:16:03,690 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2017-12-17 14:16:09,495 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.19.1
+2017-12-17 14:16:09,577 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.19.1/geckodriver
+2018-03-31 18:59:18,490 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 18:59:22,126 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 18:59:23,373 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Invalid cookie header: "Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Wed, 31 Mar 2038 10:59:23 -0000; secure; HttpOnly". Invalid 'expires' attribute: Wed, 31 Mar 2038 10:59:23 -0000
+2018-03-31 19:00:19,362 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 19:01:16,249 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 19:01:19,501 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 19:01:19,772 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 19:03:16,423 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 19:03:19,524 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 19:03:19,864 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 19:34:55,929 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 19:35:00,066 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 19:35:00,414 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 19:35:52,612 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 19:35:55,595 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 19:35:55,906 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 19:36:51,844 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 19:37:13,841 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 19:37:14,132 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 19:40:12,058 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 19:40:30,990 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 19:40:31,286 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 19:47:58,457 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 19:48:01,822 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 19:48:02,124 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 19:50:29,468 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 19:50:34,425 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 19:50:34,501 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 19:55:53,167 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 19:55:54,771 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-03-31 19:55:55,465 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-03-31 19:55:56,899 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-03-31 19:56:01,941 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 19:56:01,991 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 19:56:03,934 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [operadriver] is 2.35
+2018-03-31 19:56:05,354 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Invalid cookie header: "Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Wed, 31 Mar 2038 11:56:05 -0000; secure; HttpOnly". Invalid 'expires' attribute: Wed, 31 Mar 2038 11:56:05 -0000
+2018-03-31 19:57:24,707 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 19:57:25,636 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-03-31 19:57:26,137 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-03-31 19:57:26,160 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-03-31 19:57:29,376 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 19:57:29,388 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 19:57:29,652 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://selenium-release.storage.googleapis.com/ to seek [IEDriverServer]
+2018-03-31 19:57:30,150 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.11
+2018-03-31 19:57:30,151 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.11 ... seeking another version
+2018-03-31 19:57:30,206 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.10
+2018-03-31 19:57:30,207 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.10 ... seeking another version
+2018-03-31 19:57:30,260 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.9.0
+2018-03-31 19:57:30,260 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.9.0 ... seeking another version
+2018-03-31 19:57:30,311 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.8
+2018-03-31 19:57:30,312 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.8 ... seeking another version
+2018-03-31 19:57:30,358 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.7
+2018-03-31 19:57:30,360 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.7 ... seeking another version
+2018-03-31 19:57:30,426 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.6
+2018-03-31 19:57:30,429 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.6 ... seeking another version
+2018-03-31 19:57:30,492 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.5
+2018-03-31 19:57:30,492 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.5 ... seeking another version
+2018-03-31 19:57:30,546 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.4
+2018-03-31 19:57:30,546 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.4 ... seeking another version
+2018-03-31 19:57:30,594 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.3
+2018-03-31 19:57:30,595 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.3 ... seeking another version
+2018-03-31 19:57:30,661 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.2
+2018-03-31 19:57:30,663 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.2 ... seeking another version
+2018-03-31 19:57:30,708 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.1
+2018-03-31 19:57:30,708 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.1 ... seeking another version
+2018-03-31 19:57:30,740 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.0
+2018-03-31 19:57:30,741 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.0 ... seeking another version
+2018-03-31 19:57:30,762 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.52
+2018-03-31 19:57:30,762 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.52 ... seeking another version
+2018-03-31 19:57:30,782 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.51
+2018-03-31 19:57:30,783 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.51 ... seeking another version
+2018-03-31 19:57:30,807 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.50
+2018-03-31 19:57:30,807 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.50 ... seeking another version
+2018-03-31 19:57:30,826 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.49
+2018-03-31 19:57:30,827 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.49 ... seeking another version
+2018-03-31 19:57:30,850 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.48
+2018-03-31 19:57:30,850 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.48 ... seeking another version
+2018-03-31 19:57:30,869 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.47
+2018-03-31 19:57:30,872 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.47 ... seeking another version
+2018-03-31 19:57:30,894 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.46
+2018-03-31 19:57:30,895 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.46 ... seeking another version
+2018-03-31 19:57:30,912 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.45
+2018-03-31 19:57:30,913 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.45 ... seeking another version
+2018-03-31 19:57:30,921 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.44
+2018-03-31 19:57:30,921 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.44 ... seeking another version
+2018-03-31 19:57:30,932 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.42
+2018-03-31 19:57:30,933 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.42 ... seeking another version
+2018-03-31 19:57:30,940 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.41
+2018-03-31 19:57:30,941 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.41 ... seeking another version
+2018-03-31 19:57:30,947 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.40
+2018-03-31 19:57:30,948 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.40 ... seeking another version
+2018-03-31 19:57:30,950 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.39
+2018-03-31 19:57:30,951 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.39 ... seeking another version
+2018-03-31 19:57:30,954 [main] WARN io.github.bonigarcia.wdm.BrowserManager - There was an error managing [IEDriverServer] LATEST (null) ... trying again forcing to use cache
+2018-03-31 19:57:30,990 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://selenium-release.storage.googleapis.com/ to seek [IEDriverServer]
+2018-03-31 19:57:31,663 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.11
+2018-03-31 19:57:31,663 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.11 ... seeking another version
+2018-03-31 19:57:31,701 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.10
+2018-03-31 19:57:31,702 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.10 ... seeking another version
+2018-03-31 19:57:31,741 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.9.0
+2018-03-31 19:57:31,742 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.9.0 ... seeking another version
+2018-03-31 19:57:31,779 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.8
+2018-03-31 19:57:31,781 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.8 ... seeking another version
+2018-03-31 19:57:31,816 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.7
+2018-03-31 19:57:31,816 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.7 ... seeking another version
+2018-03-31 19:57:31,845 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.6
+2018-03-31 19:57:31,846 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.6 ... seeking another version
+2018-03-31 19:57:31,888 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.5
+2018-03-31 19:57:31,889 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.5 ... seeking another version
+2018-03-31 19:57:31,953 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.4
+2018-03-31 19:57:31,953 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.4 ... seeking another version
+2018-03-31 19:57:32,008 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.3
+2018-03-31 19:57:32,009 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.3 ... seeking another version
+2018-03-31 19:57:32,046 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.2
+2018-03-31 19:57:32,047 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.2 ... seeking another version
+2018-03-31 19:57:32,086 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.1
+2018-03-31 19:57:32,087 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.1 ... seeking another version
+2018-03-31 19:57:32,130 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 3.0
+2018-03-31 19:57:32,131 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 3.0 ... seeking another version
+2018-03-31 19:57:32,178 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.52
+2018-03-31 19:57:32,179 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.52 ... seeking another version
+2018-03-31 19:57:32,240 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.51
+2018-03-31 19:57:32,240 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.51 ... seeking another version
+2018-03-31 19:57:32,256 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.50
+2018-03-31 19:57:32,257 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.50 ... seeking another version
+2018-03-31 19:57:32,273 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.49
+2018-03-31 19:57:32,274 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.49 ... seeking another version
+2018-03-31 19:57:32,290 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.48
+2018-03-31 19:57:32,291 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.48 ... seeking another version
+2018-03-31 19:57:32,302 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.47
+2018-03-31 19:57:32,302 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.47 ... seeking another version
+2018-03-31 19:57:32,311 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.46
+2018-03-31 19:57:32,311 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.46 ... seeking another version
+2018-03-31 19:57:32,320 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.45
+2018-03-31 19:57:32,320 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.45 ... seeking another version
+2018-03-31 19:57:32,328 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.44
+2018-03-31 19:57:32,328 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.44 ... seeking another version
+2018-03-31 19:57:32,335 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.42
+2018-03-31 19:57:32,336 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.42 ... seeking another version
+2018-03-31 19:57:32,345 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.41
+2018-03-31 19:57:32,346 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.41 ... seeking another version
+2018-03-31 19:57:32,355 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.40
+2018-03-31 19:57:32,356 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.40 ... seeking another version
+2018-03-31 19:57:32,364 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [IEDriverServer] is 2.39
+2018-03-31 19:57:32,364 [main] INFO io.github.bonigarcia.wdm.BrowserManager - No binary found for [IEDriverServer] 2.39 ... seeking another version
+2018-03-31 19:58:37,453 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 19:58:38,245 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-03-31 19:58:38,752 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-03-31 19:58:38,774 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-03-31 19:58:41,971 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 19:58:42,181 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 20:00:07,756 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 20:00:08,704 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-03-31 20:00:09,199 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-03-31 20:00:09,227 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-03-31 20:00:11,659 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 20:00:11,677 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 23:20:12,258 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 23:20:13,132 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-03-31 23:20:13,690 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-03-31 23:20:13,715 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-03-31 23:20:25,162 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 23:20:25,183 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 23:21:40,203 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 23:21:41,043 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-03-31 23:21:41,565 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-03-31 23:21:41,587 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-03-31 23:21:47,093 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 23:21:47,107 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 23:32:22,922 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 23:32:25,094 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-03-31 23:32:25,935 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-03-31 23:32:26,010 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-03-31 23:34:29,464 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 23:34:41,240 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-03-31 23:34:43,386 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-03-31 23:34:43,544 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-03-31 23:34:48,137 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 23:34:48,166 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 23:40:31,650 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 23:41:47,356 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: No route to host
+2018-03-31 23:41:47,359 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2018-03-31 23:43:02,407 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: No route to host
+2018-03-31 23:43:02,408 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2018-03-31 23:43:02,907 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-03-31 23:43:03,485 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-03-31 23:43:03,507 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-03-31 23:43:10,424 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 23:43:10,441 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 23:56:28,910 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 23:56:31,661 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-03-31 23:56:32,827 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-03-31 23:56:32,885 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-03-31 23:56:44,516 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-03-31 23:56:44,535 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-03-31 23:59:07,993 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-03-31 23:59:38,557 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: No route to host
+2018-03-31 23:59:38,563 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2018-03-31 23:59:38,565 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: No route to host
+2018-03-31 23:59:38,566 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2018-03-31 23:59:38,568 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: No route to host
+2018-03-31 23:59:38,569 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2018-03-31 23:59:38,570 [main] WARN io.github.bonigarcia.wdm.BrowserManager - Network not available. Forcing the use of cache
+2018-03-31 23:59:38,628 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Found chromedriver in cache: /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver 
+2018-03-31 23:59:38,629 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 00:00:08,642 [main] WARN io.github.bonigarcia.wdm.BrowserManager - Network not available. Forcing the use of cache
+2018-04-01 00:00:08,662 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Found geckodriver in cache: /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver 
+2018-04-01 00:00:08,663 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 00:01:34,459 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 00:01:42,194 [main] WARN io.github.bonigarcia.wdm.BrowserManager - Network not available. Forcing the use of cache
+2018-04-01 00:01:42,229 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Found chromedriver in cache: /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver 
+2018-04-01 00:01:42,230 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 00:01:42,260 [main] WARN io.github.bonigarcia.wdm.BrowserManager - Network not available. Forcing the use of cache
+2018-04-01 00:01:42,270 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Found geckodriver in cache: /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver 
+2018-04-01 00:01:42,270 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 00:03:21,019 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 00:03:24,467 [main] WARN io.github.bonigarcia.wdm.BrowserManager - Network not available. Forcing the use of cache
+2018-04-01 00:03:24,497 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Found chromedriver in cache: /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver 
+2018-04-01 00:03:24,498 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 00:03:24,518 [main] WARN io.github.bonigarcia.wdm.BrowserManager - Network not available. Forcing the use of cache
+2018-04-01 00:03:24,531 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Found geckodriver in cache: /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver 
+2018-04-01 00:03:24,532 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 00:04:22,438 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 00:04:22,869 [main] WARN io.github.bonigarcia.wdm.BrowserManager - Network not available. Forcing the use of cache
+2018-04-01 00:04:22,886 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Found chromedriver in cache: /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver 
+2018-04-01 00:04:22,887 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 00:04:22,900 [main] WARN io.github.bonigarcia.wdm.BrowserManager - Network not available. Forcing the use of cache
+2018-04-01 00:04:22,907 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Found geckodriver in cache: /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver 
+2018-04-01 00:04:22,908 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 00:17:05,702 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 00:17:07,667 [main] WARN io.github.bonigarcia.wdm.BrowserManager - Network not available. Forcing the use of cache
+2018-04-01 00:17:07,747 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Found chromedriver in cache: /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver 
+2018-04-01 00:17:07,748 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 00:17:08,786 [main] WARN io.github.bonigarcia.wdm.BrowserManager - Network not available. Forcing the use of cache
+2018-04-01 00:17:08,798 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Found geckodriver in cache: /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver 
+2018-04-01 00:17:08,799 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 10:05:47,212 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 10:05:51,288 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 10:05:54,292 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 10:05:54,354 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 10:06:00,462 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 10:06:00,484 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 10:07:23,599 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 10:07:25,097 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 10:07:26,010 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 10:07:26,041 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 10:07:29,479 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 10:07:29,493 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 10:10:17,291 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 10:10:19,008 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 10:10:19,650 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 10:10:19,705 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 10:10:23,728 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 10:10:23,752 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 10:13:20,357 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 10:13:21,647 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 10:13:22,276 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 10:13:22,301 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 10:13:26,904 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 10:13:26,919 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 10:16:49,808 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 10:18:05,430 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: No route to host
+2018-04-01 10:18:05,433 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2018-04-01 10:19:22,801 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: No route to host
+2018-04-01 10:19:22,812 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2018-04-01 10:19:23,516 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 10:19:24,097 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 10:19:24,217 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 10:19:28,362 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 10:19:28,379 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 10:21:47,520 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 10:21:49,299 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 10:21:49,940 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 10:21:49,993 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 10:21:53,350 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 10:21:53,363 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 10:24:12,784 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 10:24:14,036 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 10:24:14,690 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 10:24:14,709 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 10:24:23,907 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 10:24:23,931 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 10:30:50,417 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 10:30:52,081 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 10:30:52,643 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 10:30:52,719 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 10:30:57,250 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 10:30:57,449 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 10:34:25,134 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 10:34:26,903 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 10:34:27,511 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 10:34:27,579 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 10:34:30,064 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 10:34:30,082 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 10:43:15,726 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 10:43:17,325 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 10:43:17,953 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 10:43:18,030 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 10:43:22,706 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 10:43:22,729 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 13:26:04,271 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 13:27:41,469 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 13:28:20,513 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 13:29:15,215 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 13:45:39,255 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 13:46:28,675 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 13:46:31,343 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 13:46:31,444 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 13:48:27,466 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 13:49:13,828 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 13:49:16,164 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 13:49:16,288 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 13:49:21,547 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 13:49:22,612 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 13:52:23,305 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 13:52:49,270 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 13:52:51,409 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 13:52:51,477 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 13:53:00,832 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 13:53:00,868 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 13:54:18,336 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 13:56:05,854 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 13:58:10,257 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 13:58:11,175 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 13:58:11,204 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 13:58:16,455 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 13:58:16,480 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 14:03:25,274 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 14:05:05,493 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 14:05:07,650 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 14:05:07,710 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 14:05:22,493 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 14:05:23,536 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 14:10:21,821 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 14:10:24,362 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 14:10:25,564 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 14:10:25,583 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 14:10:34,585 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 14:10:34,630 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 14:11:54,185 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 14:11:56,033 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 14:11:57,017 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 14:11:57,034 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 14:12:06,414 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 14:12:06,652 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 14:17:41,232 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 14:18:42,310 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 14:18:57,012 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: No route to host
+2018-04-01 14:18:57,021 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2018-04-01 14:19:57,975 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: No route to host
+2018-04-01 14:19:57,986 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2018-04-01 14:20:12,114 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: No route to host
+2018-04-01 14:20:12,119 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2018-04-01 14:21:13,020 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: No route to host
+2018-04-01 14:21:13,020 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2018-04-01 14:21:27,150 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: No route to host
+2018-04-01 14:21:27,151 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2018-04-01 14:22:28,064 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.NoRouteToHostException) caught when processing request to {s}->https://chromedriver.storage.googleapis.com:443: No route to host
+2018-04-01 14:22:28,074 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://chromedriver.storage.googleapis.com:443
+2018-04-01 14:22:37,243 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 14:22:42,193 [main] WARN io.github.bonigarcia.wdm.BrowserManager - Network not available. Forcing the use of cache
+2018-04-01 14:22:42,245 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Found chromedriver in cache: /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver 
+2018-04-01 14:22:42,246 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 14:22:43,569 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 14:22:45,752 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 14:22:45,775 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 14:22:50,642 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 14:22:50,665 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 14:23:39,116 [main] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {s}->https://api.github.com:443: Connection reset
+2018-04-01 14:23:39,121 [main] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {s}->https://api.github.com:443
+2018-04-01 14:25:43,321 [main] WARN io.github.bonigarcia.wdm.BrowserManager - Network not available. Forcing the use of cache
+2018-04-01 14:25:43,352 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Found geckodriver in cache: /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver 
+2018-04-01 14:25:43,353 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 14:31:22,838 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 14:31:28,992 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 14:31:45,992 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 14:31:46,012 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 14:31:57,549 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 14:31:57,575 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 14:54:33,481 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 14:54:35,261 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 14:54:35,918 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 14:54:35,972 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 14:54:41,178 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 14:54:41,191 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 14:57:01,378 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 14:57:03,339 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 14:57:03,958 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 14:57:04,008 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 14:57:06,921 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 14:57:06,942 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 17:01:11,955 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 17:02:06,438 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 17:02:08,737 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 17:02:08,846 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 17:02:12,123 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 17:02:12,365 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 17:12:19,011 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 17:12:23,851 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 17:12:25,442 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 17:12:25,495 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 17:12:27,412 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 17:12:27,645 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 17:23:16,906 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 17:23:20,035 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 17:23:21,905 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 17:23:21,923 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 17:23:23,873 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 17:23:24,097 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 17:36:06,222 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 17:36:09,374 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 17:36:10,795 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 17:36:10,823 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 17:36:12,940 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 17:36:13,169 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 17:40:40,970 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 17:40:43,508 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 17:40:44,259 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 17:40:44,282 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 17:40:47,647 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 17:40:47,877 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 17:43:56,994 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 17:43:59,520 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 17:44:00,274 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 17:44:00,295 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 17:44:02,457 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 17:44:02,681 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 17:45:56,769 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 17:45:59,275 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 17:46:00,810 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 17:46:00,827 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 17:46:02,683 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 17:46:02,941 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 17:47:56,783 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 17:47:59,327 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 17:48:00,760 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 17:48:00,778 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 17:48:02,666 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 17:48:02,956 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver
+2018-04-01 17:51:38,595 [main] INFO com.changan.util.Log - Init logger, Reader, BrowserDriver...
+2018-04-01 17:51:41,853 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading https://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2018-04-01 17:51:43,360 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.37
+2018-04-01 17:51:43,386 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as /Users/jackysun/.m2/repository/webdriver/chromedriver/mac64/2.37/chromedriver
+2018-04-01 17:51:45,624 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [wires, geckodriver] is 0.20.0
+2018-04-01 17:51:45,864 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.gecko.driver as /Users/jackysun/.m2/repository/webdriver/geckodriver/macos/0.20.0/geckodriver

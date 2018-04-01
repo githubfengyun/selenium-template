@@ -1,4 +1,4 @@
-package com.com.changan.pageobjects;
+package com.changan.pageobjects;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -18,7 +18,7 @@ public class LoginPage {
     @FindBy(how = How.ID, using="f1_password")
     WebElement password;
 
-    @FindBy(how = How.XPATH, using=".//*[@name=\"f1_ok\"]")
+    @FindBy()
     WebElement submitButton;
 
     public void loginSiteBeam(String uid, String pwd){

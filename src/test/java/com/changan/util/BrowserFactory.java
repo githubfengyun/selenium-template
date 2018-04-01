@@ -14,7 +14,7 @@ public class BrowserFactory {
     static WebDriver webDriver;
 
     public static void initDriver() {
-//        ChromeDriverManager.getInstance().setup();
+        ChromeDriverManager.getInstance().setup();
         FirefoxDriverManager.getInstance().setup();
 //        OperaDriverManager.getInstance().setup();
 //        PhantomJsDriverManager.getInstance().setup();

@@ -1,5 +1,6 @@
-URL=http://automationpractice.com/index.php
+URL=https://github.com/
 Log4jPath=./
 testng-config-path=./src/test/resources/testng-config.xlsx
 testng-xml-path=./src/test/resources/testng1.xml
+ExtentReportPath=./extent-report
 ProjectName=ChangAn-AI-Demo

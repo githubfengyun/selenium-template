@@ -36,4 +36,8 @@ public class ConfigReader {
     public String getProjectName() {
         return properties.getProperty("ProjectName");
     }
+
+    public String getEventReportPath() {
+        return properties.getProperty("ExtentReportPath");
+    }
 }
