@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ChangAn-AI-Demo" verbose="1">
+    <test name="Regression Test">
+        <classes>
+            <class name="com.changan.testcase.ai.ClassName6"/>
+            <class name="com.changan.testcase.cloud.ClassName1"/>
+        </classes>
+    </test>
+    <test name="Sprint 3">
+        <classes>
+            <class name="com.changan.testcase.ai.ClassSprint3-1"/>
+            <class name="com.changan.testcase.cloud.ClassSprint3-2"/>
+            <class name="com.changan.testcase.finance.ClassSprint3-3"/>
+        </classes>
+    </test>
+    <test name="Sprint 2">
+        <groups>
+            <run>
+                <include name="G5"/>
+                <include name="G6"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.changan.testcase.cloud.ClassSprint2-1"/>
+        </classes>
+    </test>
+    <test name="Sprint 1">
+        <classes>
+            <class name="com.changan.testcase.finance.ClassSprint1-1"/>
+            <class name="com.changan.testcase.finance.ClassSprint1-2"/>
+        </classes>
+    </test>
+    <test name="Golden Test">
+        <groups>
+            <run>
+                <include name="G3"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.changan.testcase.ai.ClassName1"/>
+        </classes>
+    </test>
+    <test name="Smoke Test">
+        <groups>
+            <run>
+                <include name="G1"/>
+                <include name="G2"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.changan.testcase.ai.ClassName1"/>
+            <class name="com.changan.testcase.cloud.ClassName2"/>
+            <class name="com.changan.testcase.cloud.ClassName3"/>
+        </classes>
+    </test>
+</suite>

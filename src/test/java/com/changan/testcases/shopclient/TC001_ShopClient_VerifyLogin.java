@@ -22,12 +22,12 @@ public class TC001_ShopClient_VerifyLogin extends BaseClass {
     }
 
     @Test
-    public void checkLoginUser() {
+    public void checkLoginUser() throws IOException {
 //        super.getExtent().createTest("checkLoginUser");
         ExtentReports extentReports = super.getExtentReports();
         ExcelDriver xlsUtil = null;
         try {
-            xlsUtil = new ExcelDriver("./src/test/resources/testdata/TC001_ShopClient_VerifyLogin.xlsx");
+            xlsUtil = new ExcelDriver(System.getProperty("user.dir") +"/src/test/resources/testdata/TC001_ShopClient_VerifyLogin.xlsx");
             ExcelDriver.columnDictionary("Example Test");
         } catch (IOException e) {
             e.printStackTrace();
@@ -39,9 +39,8 @@ public class TC001_ShopClient_VerifyLogin extends BaseClass {
         extentTest = extentReports.createTest("TC001_CheckLogin");
         BaseClass.setLogger(extentTest);
         extentTest.log(Status.INFO, "Startup Browser.");
-        IndexPage indexPage = new IndexPage(BrowserFactory.getWebDriver());
-        LoginPage loginPage = indexPage.signIn();
-        HomePage homePage = loginPage.login(username, password, extentTest);
-
+        LoginPage loginPage = new LoginPage(BrowserFactory.getWebDriver());
+        loginPage.login(username, password, extentTest);
+        ExcelDriver.closeExcel();
     }
 }

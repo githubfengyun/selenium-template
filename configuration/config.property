@@ -1,4 +1,4 @@
-URL=https://github.com/
+URL=http://tspdemo.changan.com.cn/cs/app/login
 Log4jPath=./
 testng-config-path=./src/test/resources/testng-config.xlsx
 testng-xml-path=./src/test/resources/testng.xml

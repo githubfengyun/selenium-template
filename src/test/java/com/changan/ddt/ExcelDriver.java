@@ -10,6 +10,8 @@ import java.io.IOException;
 import java.util.Hashtable;
 
 public class ExcelDriver {
+    static File excelFile;
+    static FileInputStream excelFileInputStream;
     static Sheet  wrksheet;
     static Workbook wrkbook =null;
     static Hashtable dict= new Hashtable();
@@ -17,12 +19,15 @@ public class ExcelDriver {
     //Create a Constructor
     public ExcelDriver(String ExcelSheetPath) throws IOException {
         //Initialize
-        File excelFile = new File(ExcelSheetPath);
-        FileInputStream excelFileInputStream = new FileInputStream(excelFile);
+        excelFile = new File(ExcelSheetPath);
+        excelFileInputStream = new FileInputStream(excelFile);
         wrkbook = new XSSFWorkbook(excelFileInputStream);
         //For Demo purpose the excel sheet path is hardcoded, but not recommended :
     }
 
+    public static void closeExcel() throws IOException {
+        excelFileInputStream.close();
+    }
     //Returns the Number of Rows
     public static int rowCount()
     {

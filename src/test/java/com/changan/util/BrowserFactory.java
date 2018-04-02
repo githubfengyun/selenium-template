@@ -3,6 +3,7 @@ package com.changan.util;
 import io.github.bonigarcia.wdm.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
@@ -14,8 +15,10 @@ public class BrowserFactory {
     static WebDriver webDriver;
 
     public static void initDriver() {
-        ChromeDriverManager.getInstance().setup();
-        FirefoxDriverManager.getInstance().setup();
+//        System.setProperty("webdriver.chrome.driver","c:\\webdriver\\chromedriver.exe");
+
+//        ChromeDriverManager.getInstance().setup();
+//        FirefoxDriverManager.getInstance().setup();
 //        OperaDriverManager.getInstance().setup();
 //        PhantomJsDriverManager.getInstance().setup();
 //        EdgeDriverManager.getInstance().setup();
@@ -26,6 +29,10 @@ public class BrowserFactory {
         if(browserName.equals("firefox")) {
             webDriver = new FirefoxDriver();
         } else if(browserName.equals("chrome")) {
+
+//            ChromeOptions options = new ChromeOptions();
+//            options.addArguments("--test-type", "--ignore-certificate-errors");
+            System.setProperty("webdriver.chrome.driver","c:\\webdriver\\chromedriver.exe");
             webDriver = new ChromeDriver();
         } else if(browserName.equalsIgnoreCase("ie")) {
             webDriver = new InternetExplorerDriver();

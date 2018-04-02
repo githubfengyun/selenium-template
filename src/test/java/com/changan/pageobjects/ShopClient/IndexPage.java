@@ -1,6 +1,5 @@
 package com.changan.pageobjects.ShopClient;
 
-import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.changan.util.BrowserFactory;
@@ -11,6 +10,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
 public class IndexPage {
+    WebDriver webDriver;
     public IndexPage(WebDriver webDriver) {
         PageFactory.initElements(webDriver, this);
     }
@@ -23,7 +23,7 @@ public class IndexPage {
 
     public LoginPage signIn(){
         lnkSignIn.click();
-        return new LoginPage();
+        return new LoginPage(webDriver);
     }
 
     public RegistryPage signUp(ExtentTest extentTest){

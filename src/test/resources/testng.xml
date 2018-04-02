@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="ChangAn-AI-Demo" verbose="1"><test name="Regression Test"><classes><class name="com.changan.testcases.shopclient.TC001_ShopClient_VerifyLogin"/><class name="com.changan.testcases.shopclient.TC002_ShopClient_VerifyRegPageTitle"/></classes></test></suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="ChangAn-AI-Demo" verbose="1"><test name="Regression Test"><classes><class name="com.changan.testcases.shopclient.TC001_ShopClient_VerifyLogin"/><class name="com.changan.testcases.shopclient.TC002_ShopClient_VerifySearchCarInfoByVin"/></classes></test></suite>
